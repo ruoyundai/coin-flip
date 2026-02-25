@@ -1,0 +1,5 @@
+{
+  "name": "K-Coin Interactive Grid",
+  "description": "A grid of metallic coins that spin on hover to reveal a golden back.",
+  "requestFramePermissions": []
+}
